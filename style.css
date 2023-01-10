@@ -1,3 +1,9 @@
 h1 {
   color: yellow;
 }
+
+p {
+  font-size: 10px;
+  display: flex;
+  color: black;
+}
